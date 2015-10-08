@@ -9,7 +9,7 @@ DOB:02/08/1998
 
 Favorite Food  
 * Pizza  
-* suops
+* soups
  * cream mushroom soup
  
 [My website](https://sites.google.com/a/hstat.org/ziqianp0918sep11/)
