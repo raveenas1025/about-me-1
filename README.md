@@ -3,6 +3,7 @@
 _High School of Telecommunications Arts and Technology_  
 Age:17  
 DOB:02/08/1998  
+---
 # Favorite Game:  
 1. Counter-Strike:Global Offensive  
 2. League of Legends  
