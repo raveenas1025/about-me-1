@@ -6,6 +6,7 @@ DOB:02/08/1998
 # Favorite Game:  
 1. Counter-Strike:Global Offensive  
 2. League of Legends  
+
 Favorite Food  
 * Pizza  
 * suops
